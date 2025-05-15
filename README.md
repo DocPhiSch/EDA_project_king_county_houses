@@ -1,7 +1,7 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+#     EDA_project_king_county_houses
 
-Template for creating ds simple projects
+This is the first project as part of the Data Science & AI bootcamp at neuefische GmbH. The aim of the project was to conduct an exploratory data analysis (EDA) of the 'House Sales in King County, USA' dataset on kaggle. The resulting purchase or sale proposals for a fictional buyer or seller were presented to the other course participants in a short presentation. More detailed information on the project can be found in assignment.md.   
 
 ## Requirements
 
